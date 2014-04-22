@@ -105,7 +105,7 @@ pygments_style = 'sphinx'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #html_theme = 'default'
-html_theme = 'plone_basic'
+html_theme = 'plone_org_5'
 import sphinx.themes.plone
 html_theme_path = sphinx.themes.plone.get_html_theme_path() 
 
